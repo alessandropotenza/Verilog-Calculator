@@ -1,4 +1,4 @@
-# Calculator Build using Verilog
+# Calculator Built using Verilog
 Created as part of a group design project for ECE 2220: Digital Logic Systems.
 
 ## Description
